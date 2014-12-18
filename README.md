@@ -7,21 +7,21 @@ NOTE: THIS GITHUB REPOSITORY IS CURRENTLY OUT OF DATE! I've made some major chan
 
 This project is currently in pre-alpha. Some features are unimplemented, and data is not secure.
 
-TO INSTALL:
-Download the source code from this location:
-misc.warsage.com/class/360/PrivateJournal.zip
+TO INSTALL:  
+Download the source code from this location:  
+misc.warsage.com/class/360/PrivateJournal.zip  
 
-Install the following Python packages using pip:
-flask
-sqlite3
-contextlib
+Install the following Python packages using pip:  
+flask  
+sqlite3 
+contextlib  
 
-Initialize the database in this manner:
--Enter a Python interactive shell
--Enter these commandS: 
-  from flaskr import init_db
-  init_db
+Initialize the database in this manner:  
+-Enter a Python interactive shell  
+-Enter these commandS:   
+  from flaskr import init_db  
+  init_db  
   
-Run the server using python flaskr.py
+Run the server using python flaskr.py  
 
 You're done! The server should be running now.
